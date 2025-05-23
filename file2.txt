@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello girls
+=======
+hello
+girls
+>>>>>>> 1e7ccd0 (hello committed)
